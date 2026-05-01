@@ -1,3 +1,3 @@
 # tb-cc
 
-Claude Code on Terminal Bench. Setup in progress.
+Claude Code on Terminal Bench. Initial scaffold to follow.
